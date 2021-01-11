@@ -3,8 +3,8 @@ ClickFight, multiplayer game online, support all device.
 
 # PHOTO GAME
   *
-# REQUIRE
-  *
+# REQUIRE 
+  * React
 # Play online & Download
  
  Website: *
